@@ -18,7 +18,7 @@ Please follow one of the following links to open the exercises in google colab:
 * Get familiar with visualizing and the analysis of timeseries data
 * Get familiar with visualizing and the analysis of subsurface data
 * Learn something about the geological and climate history of our planet
-* Learn something about the earthquakes and the subsurface of our planet
+* Learn something about earthquakes and the subsurface structure of our planet
 
 
 # Pre-requisites
