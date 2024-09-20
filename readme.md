@@ -24,7 +24,7 @@ Please follow one of the following links to open the exercises in google colab:
 # Pre-requisites
 
 * An internet connected desktop or laptop
-* A google account to run these notebooks in google colab. Alternatively you can run the exercises on your own machine too by first downloading this repository using the `<> Code` and the `Clone` or `Download ZIP options` on the top right of this site, installing a Python and Jupyter notebook environment, such as [Anaconda](https://www.anaconda.com/), and then running one of the exercise notebooks.
+* A google account to run these notebooks in google colab. Alternatively you can run the exercises on your own machine too by first downloading this repository using the `<> Code` and the `Clone` or `Download ZIP options` on the top right of this site, installing a Python and Jupyter notebook environment, such as [Anaconda](https://www.anaconda.com/), and then using running one of the exercise notebooks in this repository.
 
 
 # Schedule
