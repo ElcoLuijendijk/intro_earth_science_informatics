@@ -13,7 +13,7 @@ Please follow one of the following links to open the exercises in google colab:
 * [Exercise 2]()
 
 
-# Aims of the course
+# Aims of these exercises
 
 * Get familiar with visualizing and the analysis of timeseries data
 * Get familiar with visualizing and the analysis of subsurface data
