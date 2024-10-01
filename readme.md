@@ -3,7 +3,7 @@
 
 This site contains exercises for the course [GEOV181, Introduction to earth science and informatics](https://www4.uib.no/en/courses/GEOV181).
 
-These exercises belong to the second module of GEOV181, which focuses on visualizing and analyzing geoscience data that covers earth's history and the subsurface. For exercise 1a we will look at historic (1860 to present) climate data, exercise 1b covers climate data for the last 67 million years, and in exercise 2 we will analyze earthquake data.
+These exercises belong to the second module of GEOV181, which focuses on visualizing and analyzing geoscience data that covers earth's history and the subsurface. For exercise 1a we will look at historic (1860 to present) climate data, exercise 1b covers climate data for the last 66 million years, and in exercise 2 we will analyze earthquake data.
 
 Please follow one of the following links to open the exercises in [Google Colab](https://colab.research.google.com/):
 
