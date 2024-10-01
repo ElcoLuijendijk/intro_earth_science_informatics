@@ -9,7 +9,7 @@ Please follow one of the following links to open the exercises in [Google Colab]
 
 
 * [Exercise 1a: Analysis of global temperature from 1850 to present](http://colab.research.google.com/github/ElcoLuijendijk/intro_earth_science_informatics/blob/main/exercise_1a.ipynb)
-* [Exercise 1b: Analysis of global temperatures and $CO_2$ in the last 66 million years](http://colab.research.google.com/github/ElcoLuijendijk/intro_earth_science_informatics/blob/main/exercise_1b.ipynb)
+* [Exercise 1b: Analysis of global temperatures and CO2 in the last 66 million years](http://colab.research.google.com/github/ElcoLuijendijk/intro_earth_science_informatics/blob/main/exercise_1b.ipynb)
 * [Exercise 2: TBA]()
 
 
